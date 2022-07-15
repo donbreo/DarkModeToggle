@@ -293,7 +293,7 @@ p
   text-align: center;
   justify-content: center;
   align-items: center;
-  background: var(--background);
+  background: var(--background2);
   box-shadow: var(--box-shadow);
 }
 
